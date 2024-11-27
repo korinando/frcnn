@@ -2,16 +2,6 @@
 
 How to use:
 
-training: 
-'''properties
-python train.py
-'''
-inference:
-'''properties
-python test.py 
-'''
-
-evaluate:
-'''properties
-python test.py --evaluate True
-'''
+training: ```python train.py```
+inference:```python test.py ```
+evaluate:```python test.py --evaluate True```
