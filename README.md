@@ -3,15 +3,15 @@
 How to use:
 
 training: 
-'''bash
+'''properties
 python train.py
 '''
 inference:
-'''bash
+'''properties
 python test.py 
 '''
 
 evaluate:
-'''bash
+'''properties
 python test.py --evaluate True
 '''
